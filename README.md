@@ -1,4 +1,4 @@
-# Deploy a NodeJS to Amazon ECS and Fargate
+# Deploy a NodeJS App to Amazon ECS and Fargate
 
 This blog demonstrates deploying a simple application to Amazon ECS and Fargate. Amazon Elastic Container Service (ECS) is a fully managed container orchestration service that helps you to deploy, manage, and scale containerized applications more efficiently. This blog assumes that you have all the prerequisites in place.
 ### Prerequisites 
